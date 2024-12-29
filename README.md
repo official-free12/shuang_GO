@@ -1,0 +1,6 @@
+# 双轨直销返利分红系统/会员管理系统/购物商城团队级差系统
+
+双轨直销系统源码，无BUG直销系统源码，有购物商城<br>【多款精美直销系统开发】[龙霸软件]全国前3专业10年【美容直销系统+内部商城】（Pc端+手机WAP）可接微信端会员网址：example.com会员账号A00001 密码111111PC端后台：example.com/adminPC端总管理员admin 密码1二级付款或管理密码 密码1【金融直销系统+内部商城】（Pc端+手机WAP）可接微信端会员网址：example.com会员账号A00001 密码111111PC端后台：example.com/adminPC端总管理员admin 密码1二级付款或管理密码 密码1【多轨直销系统+内部商城】（Pc端+手机WAP）可接微信端会员网址：example.com会员账号13632978801密码123456PC端后台：example.com/adminPC端总管理员admin 密码1管理密码或二级付款密码1【双轨直销系统+内部商城】（Pc端+手机WAP）可接微信端会员网址：example.com会员账号13632978801密码123456PC端后台：example.com/adminPC端总管理员admin 密码1管理密码或安全密码1【股权拆分盘系统】（Pc端+手机WAP）可接微信端会员网址：example.com会员账号C00001密码123456PC端后台：example.com/adminPC端总管理员admin 密码1安全密码或管理密码 密码1<br>1、本源码是二次开发版本，之前是支持四个会员级别，但是客户只保留了一个会员级别。2、报单费（激活会员费用）3、直推奖 推荐一个人赚多少钱4、层碰奖 每层进来的左右各取一个人，计算层碰1:1得多少5、量碰奖 每层除了参与层碰的人以外的人的业绩都算量碰，有设置封顶。6、见点奖 不管下线发展多少人，增加一个人就获得一次见点奖，只发一次7、服务站补贴  当有会员成为服务站（报单中心）的时候，每激活一个会员就会获得这份补贴8、重复消费 没启用，也没测试过这个重复消费是什么意思10、分润工资  这个就相当于每个月发固定工资，这个是按级别来的，在财务里有这个<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/Yidxl" style="color: red;">https://mega-file.org/Yidxl</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
